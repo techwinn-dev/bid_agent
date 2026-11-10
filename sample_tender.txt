@@ -1,0 +1,18 @@
+TENDER REFERENCE: IT-2026-088
+PROJECT TITLE: Enterprise Cloud Infrastructure Migration and Automated Analytics Dashboard
+ISSUING ORGANIZATION: Apex Logistics Corporation
+CLOSING DATE: December 15, 2026
+
+1. Objective:
+Apex Logistics seeks proposals from qualified IT vendors to migrate legacy on-premise database servers to a secure cloud environment and build an automated analytics reporting dashboard.
+
+2. Mandatory Technical Requirements:
+- Proven experience migrating enterprise SQL databases to AWS or Google Cloud.
+- Implementation of role-based access control (RBAC) and end-to-end encryption.
+- Sub-second query response times for executive reporting modules.
+- Provision of 24/7 post-deployment support and technical training for internal staff.
+
+3. Submission & Budget Guidelines:
+- Maximum allocated budget: $200,000 USD.
+- Expected project delivery timeline: 12 weeks from contract award.
+- Submissions must include technical architecture documentation, pricing breakdown, and three references from prior enterprise clients.
